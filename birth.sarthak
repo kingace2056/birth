@@ -1,0 +1,6 @@
+when time == 1999 {
+    child >> born ; 
+    name == sarthak
+    surname == parajuli
+    
+}
